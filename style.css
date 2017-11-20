@@ -16,8 +16,15 @@ body {
 
 header{
   color: #ffffff;
-  border-bottom: #3b5998; /* darkest blue */
+  border-bottom: #3b5998 4px solid; /* darkest blue */
   background: #6d84b4; /* medium blue */
   padding-top:30px;
   min-height:70px;
+}
+
+header a{
+ color: #ffffff;
+ text-decoration:none;
+ text-transform: uppercase;
+ font-size: 24px;
 }
