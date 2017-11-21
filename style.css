@@ -21,10 +21,6 @@ header{
   min-height:70px;
 }
 
-header .highlight, header .current a{
-  color: #afbdd4 /* lighter blue */
-}
-
 header li{
   float:left;
   display:inline;
