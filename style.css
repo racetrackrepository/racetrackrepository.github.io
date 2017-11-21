@@ -1,5 +1,7 @@
 body {
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  color: #ffffff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
@@ -19,6 +21,7 @@ header{
   background: #6d84b4; /* medium blue */
   padding-top:30px;
   min-height:70px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 header li{
