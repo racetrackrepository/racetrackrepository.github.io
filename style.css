@@ -10,6 +10,10 @@ body {
   background-color: #d8dfea; /* lightest blue */
 }
 
+#image1 {
+  content:url(http://hanabi.autoweek.com/sites/default/files/styles/gen-1200-675/public/dg018_070cl5qsva2uo0iu5s81gcr6vsp41lg.jpg?itok=xO2Jms4p);
+}
+
 ul{
   margin:0;
   padding:0;
